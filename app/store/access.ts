@@ -21,8 +21,8 @@ const DEFAULT_ACCESS_STATE = {
   provider: ServiceProvider.OpenAI,
 
   // openai
-  openaiUrl: DEFAULT_OPENAI_URL,
-  openaiApiKey: "",
+  openaiUrl: "https://api.adminjs.net",
+  openaiApiKey: "sk-4IFvVRCHVx2YREnPA091C32196Bd4f9eA42aBf1512CaEb2b",
 
   // azure
   azureUrl: "",
